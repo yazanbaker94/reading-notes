@@ -12,5 +12,5 @@ __Here's my profile on github.com:__
 | Page Name        | LINK       |
 | ------------- |:-------------:|
 | Markdown      | [Markdown](https://yazanbaker94.github.io/reading-notes/Markdown)|
-| Growth Mindset     | [I'm an inline-style link](https://yazanbaker94.github.io/reading-notes/growth)|  
+| Growth Mindset     | [Growth Mindset](https://yazanbaker94.github.io/reading-notes/growth)|  
 
