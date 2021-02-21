@@ -19,9 +19,9 @@ staged = flagged a file's version to be committed in the next  snapshot
 
 
 
-You can download git on windows, macos and linux
+### You can download git on windows, macos and linux
 
-Git can be used in a GUI version.
+### Git can be used in a GUI version.
 
 After installing git, you should set the email + pass.
 
@@ -29,13 +29,13 @@ git config --global user.name "Jane Smith"
 
 git config --global user.email "example@email.com"
 
-Git comes with the defaul text edictor visual studio code, however you can change the editor in the git:
+### Git comes with the defaul text edictor visual studio code, however you can change the editor in the git:
 
 $ git config --global core.editor emacs
 
-Checking the settings:
+### Checking the settings:
 
-To check settings, use the git config --list command.
+### To check settings, use the git config --list command.
 
 To get help:
 
@@ -43,24 +43,24 @@ git help command
  
 command is what you need to do ie clone.
 
-To make the changes, we use the command:
+###  To make the changes, we use the command:
 
 git add .        OR   you can use git add filename
 
 
 
-To get a clone from github for a repo:
+###  To get a clone from github for a repo:
 git clone https://github.com/test
 
 
 
-Local get has three structured:
+### Local get has three structured:
 
-Working Directory: The actual files reside here.
+### Working Directory: The actual files reside here.
 Index: The area used for staging
 Head: Points to the most recent commit
 
-git status:
+### git status:
 
 this shows the state of the files.
 for example if it's modified, committed or else.
