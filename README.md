@@ -3,11 +3,10 @@
 ---
 __Here's my profile on github.com:__
 
-[Yazan Baker's Github Profile](https://github.com/yazanbaker94)
+[Yazan Baker's Github Profile](https://github.com/yazanbaker94) ![Yazan Baker](https://lh3.googleusercontent.com/x0UKNtJL_WaYipDFb237Qc7auhrCDEV1Qst00kSnmMWSuIyIS-u19i_LB4QmDdrgErN-zQ=s85)
+
 
 ---
-
-
 #Growth Mindset
 Growth Mindset is a way of thinking and a more specifically a pattern of thinking.
 Growth Mindset is a way of life where as an individual, if you face any problem, you should tackle it and challenge it insted of avoiding it and ignoring it, or as some mindset professionals call it "running from the problem".
