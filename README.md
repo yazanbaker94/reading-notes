@@ -37,3 +37,12 @@ We can make tables like this
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column"
+
+
+
+Dictionary:
+
+MD File = mark down file with .md extension
+mark down cheat sheet = from github, shows all different codes we can use
+MD file = its used o give description about the website. usually a readme.md
+markdown file can be either made on github or locally.
