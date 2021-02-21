@@ -9,5 +9,31 @@ Gists
 Comments in Issues and Pull Requests
 Files with the .md or .markdown extension
 
-* hello
-* whats ur name
+
+You can use '#' for headlines, '*' for unordered lists ie bullet points, 1. for numbered lists and many more.
+
+For example, for images we can use: 
+
+"![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)"
+
+for links:
+
+"http://github.com - automatic!
+[GitHub](http://github.com)"
+
+for black quotes:
+
+"As Kanye West said:
+
+> We're living the future so
+> the present is our past."
+
+
+We can make tables like this
+
+
+"First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column"
