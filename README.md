@@ -15,3 +15,4 @@ __Here's my profile on github.com:__
 | Growth Mindset     | [Growth Mindset](https://yazanbaker94.github.io/reading-notes/growth)|  
 | Git Intro     | [Git Intro](https://yazanbaker94.github.io/reading-notes/gitintro)|  
 | Stretch Goals     | [Stretch Goals](https://yazanbaker94.github.io/reading-notes/stretchinggoals)|  
+| Structure-with-HTML     | [Structure-with-HTML](https://yazanbaker94.github.io/reading-notes/Structure-with-HTML)|  
