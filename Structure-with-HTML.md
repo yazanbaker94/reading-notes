@@ -1,7 +1,7 @@
 
-#Duckett: HTML & CSS, Chapter 18 - Process & Design
+# Duckett: HTML & CSS, Chapter 18 - Process & Design
 
-##Target Audience: individuals
+## Target Audience: individuals
 * What is the age range of your target audience?
 * Will your site appeal to more women or men? What is the mix?
 * Which country do your visitors live in?
