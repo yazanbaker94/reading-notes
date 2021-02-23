@@ -18,3 +18,6 @@ __Here's my profile on github.com:__
 | Structure-with-HTML     | [Structure-with-HTML](https://yazanbaker94.github.io/reading-notes/Structure-with-HTML)|  
 | 06b-CSS-Design     | [06b-CSS-Design](https://yazanbaker94.github.io/reading-notes/06b-CSS-Design)|  
 | Dynamic Reading     | [Dynamic Reading](https://yazanbaker94.github.io/reading-notes/dynamic-reading)|  
+| Computer Architect     | [Computer Architect](https://yazanbaker94.github.io/reading-notes/computer-architect)|  
+
+
