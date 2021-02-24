@@ -67,3 +67,54 @@ solve the task prggrammatically.
 * To approach writing a script, break down your goal into
 a series of tasks and then work out each step needed
 to complete that task (a flowchart can help). 
+
+
+
+------------------------------------------------------------------------------------------
+
+
+
+## An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions. 
+
+
+## EXPRESSIONS THAT JUST ASSIGN A
+VALUE TO A VARIABLE 
+
+## EXPRESSIONS THAT USE TWO OR
+MORE VALUES TO RETURN A
+SINGLE VALUE
+
+
+## Expressions rely on things called operators; they allow programmers to
+create a single value from one or more values. 
+
+
+
+
+## JavaScript contains the following mathematical
+operators, which you can use with numbers.
+You may remember some from math class. 
+
+
+## There is just one string operator: the+ symbol.
+It is used to join the strings on either side of it. 
+
+-----------------------------------------------------------------------------------------------
+
+
+## Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can
+reuse the function (rather than repeating the same set of statements). 
+
+## Having declared the function, you can then execute all of the statements between its curly brances with just one line of code. This is known as calling the function.
+
+
+## Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. Inside the function, the parameters act like variables.
+
+
+## When you call a function that has paramateres, you specify the values it should use in parentheses that follow its name. The values are called arguemnts, and they can be provided as alues or as variables.
+
+## Some functions return information to the code theat called them. for example, when they perform a calculation, they return the result.
+
+
