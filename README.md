@@ -20,4 +20,4 @@ __Here's my profile on github.com:__
 | Dynamic Reading     | [Dynamic Reading](https://yazanbaker94.github.io/reading-notes/dynamic-reading)|  
 | Computer Architect     | [Computer Architect](https://yazanbaker94.github.io/reading-notes/computer-architect)|  
 | Programming with Javascript     | [Programming with Javascript](https://yazanbaker94.github.io/reading-notes/ProgrammingWithJavascript)|  
-| Operators and Loops     | [Operators and Loops](https://github.com/yazanbaker94/reading-notes/blob/main/OperatorsAndLoops)|  
+| Operators and Loops     | [Operators and Loops](https://yazanbaker94.github.io/reading-notes/OperatorsAndLoops)|  
